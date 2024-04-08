@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name":"visa",
+    "is_nfc":1
+  },
+  {
+    "id": 2,
+    "name":"uzcard",
+    "is_nfc":1
+  },
+  {
+    "id": 3,
+    "name":"humo",
+    "is_nfc":1
+  },
+  {
+    "id": 4,
+    "name":"mastercard",
+    "is_nfc":1
+  }
+]
